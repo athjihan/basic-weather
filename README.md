@@ -1,6 +1,6 @@
 # basic weather
 
-A new Flutter project.
+A homepage slicing of basic weather app
 
 ## Getting Started
 
